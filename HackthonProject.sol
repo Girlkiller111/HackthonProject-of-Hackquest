@@ -110,10 +110,4 @@ contract SimpleArtNFT is ERC721Enumerable, Ownable, ReentrancyGuard {
 - 直接购买艺术品
 - 取消艺术品销售
 - 管理员可提取合约余额
-
-主要特点：
-- 使用OpenZeppelin标准库
-- 继承ERC721可枚举标准
-- 使用Solidity 0.8.0版本
-- 包含基本的安全机制
 */
